@@ -1,0 +1,50 @@
+[
+  {
+    "path": "SKILL.md",
+    "as_of": "2026-06-06",
+    "status": "partial",
+    "review_days": 30,
+    "last_verified": null,
+    "scope": "仅两项政策已纠错，其他案例与市场数据待核验"
+  },
+  {
+    "path": "央企系A股上市公司总表.md",
+    "as_of": "2026-06",
+    "status": "pending",
+    "review_days": 30,
+    "last_verified": null,
+    "scope": "历史样本，未逐证券核查实控人与上市状态"
+  },
+  {
+    "path": "地方国资系A股上市公司总表.md",
+    "as_of": "2026-06",
+    "status": "pending",
+    "review_days": 30,
+    "last_verified": null,
+    "scope": "历史样本，非完整地方国资名录"
+  },
+  {
+    "path": "隐性国资第三圈.md",
+    "as_of": "2026-06",
+    "status": "pending",
+    "review_days": 30,
+    "last_verified": null,
+    "scope": "控制与参股关系尚未逐项核实"
+  },
+  {
+    "path": "地方政府财政新模式.md",
+    "as_of": "2026-06-27",
+    "status": "pending",
+    "review_days": 90,
+    "last_verified": null,
+    "scope": "案例和金额尚未逐项核验"
+  },
+  {
+    "path": "2026陆家嘴论坛.md",
+    "as_of": "2026-06-17",
+    "status": "pending",
+    "review_days": 90,
+    "last_verified": null,
+    "scope": "转载整理，讲话和人员身份待比对一手来源"
+  }
+]
