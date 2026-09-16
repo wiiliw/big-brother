@@ -5,7 +5,7 @@
     "status": "partial",
     "review_days": 30,
     "last_verified": null,
-    "scope": "仅两项政策已纠错，其他案例与市场数据待核验"
+    "scope": "2026-09-17重写事实与推断边界，核查关键政策及数据；旧主张撤下待核，市场方法未经策略回测"
   },
   {
     "path": "央企系A股上市公司总表.md",
@@ -42,9 +42,17 @@
   {
     "path": "2026陆家嘴论坛.md",
     "as_of": "2026-06-17",
-    "status": "pending",
+    "status": "partial",
     "review_days": 90,
     "last_verified": null,
-    "scope": "转载整理，讲话和人员身份待比对一手来源"
+    "scope": "2026-09-17对照四份官方原文修订选择性摘要；未逐项追踪会议后政策落地"
+  },
+  {
+    "path": "docs/MARKET_DATA.md",
+    "as_of": "2026-07-31",
+    "status": "partial",
+    "review_days": 30,
+    "last_verified": null,
+    "scope": "本次取得的财政和公募数据快照，逐项注明数据期；未核全部最新期，未构建每日行情或汇金持仓底表"
   }
 ]
