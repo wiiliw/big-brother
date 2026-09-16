@@ -10,34 +10,34 @@
   {
     "path": "央企系A股上市公司总表.md",
     "as_of": "2026-06",
-    "status": "pending",
+    "status": "partial",
     "review_days": 30,
     "last_verified": null,
-    "scope": "历史样本，未逐证券核查实控人与上市状态"
+    "scope": "2026-09-17局部核查代码、退市、集团归属并补样本；逐行范围见正文，旧条目未全部核实"
   },
   {
     "path": "地方国资系A股上市公司总表.md",
     "as_of": "2026-06",
-    "status": "pending",
+    "status": "partial",
     "review_days": 30,
     "last_verified": null,
-    "scope": "历史样本，非完整地方国资名录"
+    "scope": "2026-09-17纠正控制归属、代码并补地区样本；仍非完整名单，旧条目未全部核实"
   },
   {
     "path": "隐性国资第三圈.md",
     "as_of": "2026-06",
-    "status": "pending",
+    "status": "partial",
     "review_days": 30,
     "last_verified": null,
-    "scope": "控制与参股关系尚未逐项核实"
+    "scope": "2026-09-17重分参股、共同控制及交易阶段；保留未核案例，不进行三圈加总"
   },
   {
     "path": "地方政府财政新模式.md",
     "as_of": "2026-06-27",
-    "status": "pending",
+    "status": "partial",
     "review_days": 90,
     "last_verified": null,
-    "scope": "案例和金额尚未逐项核验"
+    "scope": "2026-09-17修订八条研究路径，核查上市与政策节点；财政收益金额和城市项目仍缺证据"
   },
   {
     "path": "2026陆家嘴论坛.md",
